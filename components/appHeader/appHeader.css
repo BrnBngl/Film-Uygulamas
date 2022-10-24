@@ -1,0 +1,11 @@
+header {
+  height: 75px;
+  background-color: #fff700cb;
+  width: 100%;
+  color: rgb(0, 0, 0);
+  font-size: 23px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+}
